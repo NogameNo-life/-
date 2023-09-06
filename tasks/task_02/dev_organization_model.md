@@ -30,7 +30,6 @@ ARIS (акроним от англ. Architecture of Integrated Information Syste
 
 ![рис.2](images/img2_house_aris.png)
 
-
 Организационную структуру методология ARIS представляет через нотацию Organizational chart (рис. 3).
 
 **Рис. 3 – Organizational chart**
