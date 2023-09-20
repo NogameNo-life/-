@@ -11,6 +11,6 @@
 |7|Евкович Андрей Викторович| | | | | | | | | | |
 |8|Ежгунович Глеб Михайлович| | | | | | | | | | |
 |9|Иванюк Иван Александрович|[JonF1re](https://github.com/JonF1re) | | | | | | | | | |
-|1|Игнаткевич Кирилл Сергеевич|[pyrokekw](https://github.com/pyrokekw) | | | | | | | | | |
+|10|Игнаткевич Кирилл Сергеевич|[pyrokekw](https://github.com/pyrokekw) | | | | | | | | | |
 |11|Кашпир Дмитрий Русланович| [Dima-kashpir](https://github.com/Dima-kashpir)| | | | | | | | | |
 |12|Котковец Кирилл Викторович|[Kirill-Kotkovets](https://github.com/Kirill-Kotkovets) | | | | | | | | | |
