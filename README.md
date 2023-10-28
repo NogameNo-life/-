@@ -9,7 +9,7 @@
 |5|Винничек Мария Вадимовна| | | | | | | | | | |
 |6|Горкавчук Никита Михайлович|[Exage](https://github.com/Exage) | [220038](./trunk/AS-220038/) | :white_check_mark: | :white_check_mark: | | | | | | |
 |7|Евкович Андрей Викторович| | | | | | | | | | |
-|8|Ежгунович Глеб Михайлович| | | | | | | | | | |
+|8|Ежгунович Глеб Михайлович|[Glebaste001](https://github.com/Glebaster001) |[220040](./trunk/AS-64220040/) |:white_check_mark: |:white_check_mark: | | | | | | |
 |9|Иванюк Иван Александрович|[JonF1re](https://github.com/JonF1re) | | | | | | | | | |
 |10|Игнаткевич Кирилл Сергеевич|[pyrokekw](https://github.com/pyrokekw) | | | | | | | | | |
 |11|Кашпир Дмитрий Русланович| [Dima-kashpir](https://github.com/Dima-kashpir)| | | | | | | | | |
