@@ -7,10 +7,11 @@
 |3|Будник Анна Андреевна| | | | | | | | | | |
 |4|Булавский Андрей Сергеевич|[bluj9teen](https://github.com/bluj9teen)| | | | | | | | | |
 |5|Винничек Мария Вадимовна| | | | | | | | | | |
-|6|Горкавчук Никита Михайлович|[Exage](https://github.com/Exage) | | | | | | | | | |
+|6|Горкавчук Никита Михайлович|[Exage](https://github.com/Exage) | [220038](./trunk/AS-220038/) | :white_check_mark: | :white_check_mark: | | | | | | |
 |7|Евкович Андрей Викторович| | | | | | | | | | |
 |8|Ежгунович Глеб Михайлович| | | | | | | | | | |
 |9|Иванюк Иван Александрович|[JonF1re](https://github.com/JonF1re) | | | | | | | | | |
 |10|Игнаткевич Кирилл Сергеевич|[pyrokekw](https://github.com/pyrokekw) | | | | | | | | | |
 |11|Кашпир Дмитрий Русланович| [Dima-kashpir](https://github.com/Dima-kashpir)| | | | | | | | | |
-|12|Котковец Кирилл Викторович|[Kirill-Kotkovets](https://github.com/Kirill-Kotkovets) | | | | | :white_check_mark:| | | |
+|12|Котковец Кирилл Викторович|[Kirill-Kotkovets](https://github.com/Kirill-Kotkovets) | 220044|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark:| | | | |
+
