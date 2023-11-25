@@ -6,7 +6,7 @@
 |1|Белаш Александр Олегович|[went2smoke](https://github.com/went2smoke) | | | | | |  | | |
 |2|Брызгалов Юрий Николаевич|[Gena-Cidarmyan](https://github.com/Gena-Cidarmyan) | | | |  | | | | |
 |3|Будник Анна Андреевна| | | | | | | |  |
-|4|Булавский Андрей Сергеевич|[bluj9teen](https://github.com/bluj9teen)| [220034](./trunk/AS-64220034/)| :white_check_mark:|:white_check_mark: | :white_check_mark:| | | | | |
+|4|Булавский Андрей Сергеевич|[bluj9teen](https://github.com/bluj9teen)| [220034](./trunk/AS-64220034/)| :white_check_mark:|:white_check_mark: | :white_check_mark:| :white_check_mark:| | | | |
 |5|Винничек Мария Вадимовна| | | | | | | | |
 |6|Горкавчук Никита Михайлович|[Exage](https://github.com/Exage) | [220038](./trunk/AS-220038/) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | | | |
 |7|Евкович Андрей Викторович|[Andrei21005]|(https://github.com/Andrei21005)|[220038](./trunk/AS_64220039/)| :white_check_mark:| | | | | | | |
