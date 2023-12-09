@@ -12,7 +12,7 @@
 |7|Евкович Андрей Викторович|[Andrei21005](https://github.com/Andrei21005)|[220038](./trunk/AS-64220039/)|  :white_check_mark:| :white_check_mark: | :white_check_mark: | | | | | |
 |8|Ежгунович Глеб Михайлович|[Glebaste001](https://github.com/Glebaster001) |[220040](./trunk/AS-64220040/) |:white_check_mark: |:white_check_mark: | | |  | | |
 |9|Иванюк Иван Александрович|[JonF1re](https://github.com/JonF1re) |[220041](./trunk/AS_220041/) |:white_check_mark: |:white_check_mark: | | | | | | |
-|10|Игнаткевич Кирилл Сергеевич|[pyrokekw](https://github.com/pyrokekw) | | | | | | |  |
+|12|Котковец Кирилл Викторович|[Kirill-Kotkovets](https://github.com/Kirill-Kotkovets) | 220044|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark:|:white_check_mark: |:white_check_mark: | | |
 |11|Кашпир Дмитрий Русланович| [Dima-kashpir](https://github.com/Dima-kashpir)|[220043](./trunk/AS-64220043/) |:white_check_mark: |:white_check_mark: |:white_check_mark: | |  | | |
-|12|Котковец Кирилл Викторович|[Kirill-Kotkovets](https://github.com/Kirill-Kotkovets) | 220044|:white_check_mark: |:white_check_mark: |:white_check_mark: |:white_check_mark:| | | |
+|10|Игнаткевич Кирилл Сергеевич|[pyrokekw](https://github.com/pyrokekw) | | | | | | |  |
 
